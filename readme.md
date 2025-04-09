@@ -3,7 +3,7 @@
 This semester we will dive into topics centered around different prompt engineering techniques. 
 You can get an overview about the topic in [Sahoo et al (2024)](http://arxiv.org/abs/2402.07927v2).
 
-Details of the seminar are explained in [this slide deck](NLP-KI_Seminar_Intro.pdf).
+Details of the seminar are explained in [this slide deck]([NLP-KI_Seminar_Intro.pdf](https://github.com/ScaDS/NLP-KI-Seminar-2025/raw/main/NLP-KI_Seminar_Intro.pdf)).
 
 ## Available topics
 
