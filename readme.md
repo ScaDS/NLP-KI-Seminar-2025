@@ -54,7 +54,7 @@ Details of the seminar are explained in [this slide deck](NLP-KI_Seminar_Intro.p
 
 This list will be published April 15th 2025.
 
-* 11.4.2025: ? and ? 
+* 11.4.2025: [R. Haase](BenchmarkingBIA.pdf)
 * 25.4.2025: ? and ? 
 * 2.5.2025: ? and ? 
 * 9.5.2025: ? and ? 
