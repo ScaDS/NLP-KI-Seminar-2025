@@ -6,7 +6,7 @@ You can get an overview about the topic in [Sahoo et al (2024)](http://arxiv.org
 Details of the seminar are explained in [this slide deck](https://github.com/ScaDS/NLP-KI-Seminar-2025/raw/main/NLP-KI_Seminar_Intro.pdf).
 
 
-## List of speakers / topics
+## List of speakers (Mat-Nr.) / topics
 
 * 11.4.2025
   * R. Haase [Haase et al. 'Benchmarking Large Language Models for Bio-Image Analysis Code Generation'](BenchmarkingBIA.pdf) ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.04.19.590278v1))
