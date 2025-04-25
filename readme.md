@@ -41,11 +41,12 @@ Details of the seminar are explained in [this slide deck](https://github.com/Sca
   * 3728360	[Shunyu Yao et al. 'ReAct: Synergizing Reasoning and Acting in Language Models' ](https://arxiv.org/abs/2210.03629v3) (2210.03629v3)
   * 3741091 [Wachara Fungwacharakorn et al. 'Layer-of-Thoughts Prompting (LoT): Leveraging LLM-Based Retrieval with Constraint Hierarchies' ](https://arxiv.org/abs/2410.12153v1) (2410.12153v1)
 * 4.7.2025
-  * ?
+  * 3710772 [Jieyi Long et al. 'Large Language Model Guided Tree-of-Thought' ](https://arxiv.org/abs/2305.08291v1) (2305.08291v1)
   * ?
 * 11.7.2025
   * ?
   * ?
+
 ## Yet available topics
 
 * [Hyojin Bahng et al. 'Exploring Visual Prompts for Adapting Large-Scale Models' ](https://arxiv.org/abs/2203.17274v2)
@@ -56,7 +57,6 @@ Details of the seminar are explained in [this slide deck](https://github.com/Sca
 * [Patrick Lewis et al. 'Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks' ](https://arxiv.org/abs/2005.11401v4)
 * [Chengshu Li et al. 'Chain of Code: Reasoning with a Language Model-Augmented Code Emulator' ](https://arxiv.org/abs/2312.04474v4) 
 * [Jia Li et al. 'Structured Chain-of-Thought Prompting for Code Generation' ](https://arxiv.org/abs/2305.06599v3)
-* [Jieyi Long et al. 'Large Language Model Guided Tree-of-Thought' ](https://arxiv.org/abs/2305.08291v1)
 * [Maxwell Nye et al. 'Show Your Work: Scratchpads for Intermediate Computation with Language Models' ](https://arxiv.org/abs/2112.00114v1)
 * [Bhargavi Paranjape et al. 'ART: Automatic multi-step reasoning and tool-use for large language models' ](https://arxiv.org/abs/2303.09014v1)
 * [Zilong Wang et al. 'Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding' ](https://arxiv.org/abs/2401.04398v2) 
