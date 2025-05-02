@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/24295a38-7844-4b92-9ade-3081be8c84ed)
+![image](https://github.com/user-attachments/assets/a4b3c6f1-beb5-4602-8c37-2c5035ce6614)
 # Seminar Processing Natural Language using Artificial Intelligence (NLP-KI Seminar)
 
 This semester we will dive into topics centered around different prompt engineering techniques. 
@@ -41,7 +43,7 @@ Details of the seminar are explained in [this slide deck](https://github.com/Sca
   * 3728360	[Shunyu Yao et al. 'ReAct: Synergizing Reasoning and Acting in Language Models' ](https://arxiv.org/abs/2210.03629v3) (2210.03629v3)
   * 3741091 [Wachara Fungwacharakorn et al. 'Layer-of-Thoughts Prompting (LoT): Leveraging LLM-Based Retrieval with Constraint Hierarchies' ](https://arxiv.org/abs/2410.12153v1) (2410.12153v1)
 * 4.7.2025
-  * 3710772 [Jieyi Long et al. 'Large Language Model Guided Tree-of-Thought' ](https://arxiv.org/abs/2305.08291v1) (2305.08291v1)
+  * 3710772 [Yao Yao et al. 'Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models' ](https://arxiv.org/abs/2305.16582v2) (2305.16582v2) 
   * 3690832 [Yucheng Zhou et al. 'Thread of Thought Unraveling Chaotic Contexts' ](https://arxiv.org/abs/2311.08734v1) (2311.08734v1)
 * 11.7.2025
   * 3707549 [Maxwell Nye et al. 'Show Your Work: Scratchpads for Intermediate Computation with Language Models' ](https://arxiv.org/abs/2112.00114v1) (2112.00114v1)
@@ -62,7 +64,7 @@ Details of the seminar are explained in [this slide deck](https://github.com/Sca
 * [Jason Wei et al. 'Chain-of-Thought Prompting Elicits Reasoning in Large Language Models' ](https://arxiv.org/abs/2201.11903v6)
 * [Chengrun Yang et al. 'Large Language Models as Optimizers' ](https://arxiv.org/abs/2309.03409v3) 
 * [Ling Yang et al. 'Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models' ](https://arxiv.org/abs/2406.04271v2)
-* [Yao Yao et al. 'Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Language Models' ](https://arxiv.org/abs/2305.16582v2) 
+* 
 * [Wenhao Yu et al. 'Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models' ](https://arxiv.org/abs/2311.09210v2)
 * [Zhuosheng Zhang et al. 'Automatic Chain of Thought Prompting in Large Language Models' ](https://arxiv.org/abs/2210.03493v1) 
 * [Xinliang Frederick Zhang et al. 'Narrative-of-Thought: Improving Temporal Reasoning of Large Language Models via Recounted Narratives'](https://arxiv.org/abs/2410.05558v2) 
