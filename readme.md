@@ -28,10 +28,10 @@ Details of the seminar are explained in [this slide deck](https://github.com/Sca
   * 3710680	[Wenhu Chen et al. 'Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks' ](https://arxiv.org/abs/2211.12588v4)  (2211.12588v4)
   * 3798656	[Xiaosong Yuan et al. 'Instance-adaptive Zero-shot Chain-of-Thought Prompting' ](https://arxiv.org/abs/2409.20441v3) (2409.20441v3)
 * 30.5.2025
-  * 3795304	[Rajasekhar Reddy Mekala et al. 'EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning' ](https://arxiv.org/abs/2309.10687v3) (2309.10687v3)
+  * 3780473	[Jason Weston et al. 'System 2 Attention (is something you might need too)' ](https://arxiv.org/abs/2311.11829v1) (2311.11829v1)
   * 3768349	[Tom B. Brown et al. 'Language Models are Few-Shot Learners' ](https://arxiv.org/abs/2005.14165v4) (2005.14165v4)
 * 6.6.2025
-  * 3780473	[Jason Weston et al. 'System 2 Attention (is something you might need too)' ](https://arxiv.org/abs/2311.11829v1) (2311.11829v1)
+  * 3795304	[Rajasekhar Reddy Mekala et al. 'EchoPrompt: Instructing the Model to Rephrase Queries for Improved In-context Learning' ](https://arxiv.org/abs/2309.10687v3) (2309.10687v3)
   * 3765080	[Xinliang Frederick Zhang et al. 'Narrative-of-Thought: Improving Temporal Reasoning of Large Language Models via Recounted Narratives'](https://arxiv.org/abs/2410.05558v2) (2410.05558v2)
 * 13.6.2025
   * 3799821	[Yongchao Zhou et al. 'Large Language Models Are Human-Level Prompt Engineers' ](https://arxiv.org/abs/2211.01910v2) (2211.01910v2)
