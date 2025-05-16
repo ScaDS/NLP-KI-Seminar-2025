@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/24295a38-7844-4b92-9ade-3081be8c84ed)
-![image](https://github.com/user-attachments/assets/a4b3c6f1-beb5-4602-8c37-2c5035ce6614)
 # Seminar Processing Natural Language using Artificial Intelligence (NLP-KI Seminar)
 
 This semester we will dive into topics centered around different prompt engineering techniques. 
